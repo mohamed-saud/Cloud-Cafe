@@ -100,3 +100,11 @@ button {
   letter-spacing: 1px;
   color: #999;
 }
+.center {
+  text-align: center;
+}
+#emty {
+  color: red;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 22px;
+}
